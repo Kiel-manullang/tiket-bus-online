@@ -100,3 +100,4 @@ Route::get('/final-setup', function() {
         return "Gagal karena: " . $e->getMessage();
     }
 });
+
